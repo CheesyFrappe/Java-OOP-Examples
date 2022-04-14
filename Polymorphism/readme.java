@@ -20,6 +20,6 @@
 
 /*
     • Example Output:
-    total taxed price of product: 590000.0
-    total taxed price of service: 10100.0
+        total taxed price of product: 590000.0
+        total taxed price of service: 10100.0
 */
