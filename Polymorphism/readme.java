@@ -17,3 +17,9 @@
     • The fourth element of array refers to object from Service class.
     • Print the total taxed price of Product and Service objects separately.
  */
+
+/*
+    • Example Output:
+    total taxed price of product: 590000.0
+    total taxed price of service: 10100.0
+*/
